@@ -3,10 +3,12 @@
 [![Tistory_Badge](https://img.shields.io/badge/Tech_Blog-EC5219?style=flat&logo=tistory&logoColor=white)](https://heleownae.tistory.com/)
 
 ### 📜 Education & Career
-- **내일배움캠프** `23.12 - `
+- `23.12 - present` **내일배움캠프** 
   - _Data Analyst_ course
-- **Book Editor & Marketer** `21.11 - 23.09`
-- **HUFS Global** `16.13 - 22.02`
+- `21.11 - 23.09` **Book Editor & Marketer** 
+- `21.05 - 21.11` **sbi 17th** 
+  - _Book Editor_ course
+- `16.13 - 22.02` **HUFS Global** 
   - majored in _Interpretation & translation of Japanese_
   - minored in _Economics_
 
