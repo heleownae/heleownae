@@ -6,8 +6,6 @@
 - `23.12 - present` **내일배움캠프** 
   - _Data Analyst_ course
 - `21.11 - 23.09` **Book Editor & Marketer** 
-- `21.05 - 21.11` **sbi 17th** 
-  - _Book Editor_ course
 - `16.13 - 22.02` **HUFS Global** 
   - majored in _Interpretation & translation of Japanese_
   - minored in _Economics_
