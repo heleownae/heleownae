@@ -14,11 +14,11 @@
 ![Python](https://img.shields.io/badge/Python-4182B4?style=plastic&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=plastic&logo=MySQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-0681CD?style=plastic&logo=SQLite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=PostgreSQL&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-E2D8CC?style=plastic&logo=DBeaver&logoColor=372923)
 
 ### 💻 Studying
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=PostgreSQL&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-26569A?style=plastic&logo=Tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-D99E0D?style=plastic&logo=PowerBI&logoColor=white)
 
