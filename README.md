@@ -18,11 +18,11 @@
 
 ### 💻 Studying
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=PostgreSQL&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-26569A?style=plastic&logo=Tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-D99E0D?style=plastic&logo=PowerBI&logoColor=white)
 
 <!--
 ## Baekjoon Online Judge
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hong267)](https://solved.ac/hong267/)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=PostgreSQL&logoColor=white)
 -->
