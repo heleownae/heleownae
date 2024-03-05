@@ -14,10 +14,10 @@
 ![Python](https://img.shields.io/badge/Python-4182B4?style=plastic&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=plastic&logo=MySQL&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-E2D8CC?style=plastic&logo=DBeaver&logoColor=372923)
+![Tableau](https://img.shields.io/badge/Tableau-26569A?style=plastic&logo=Tableau&logoColor=white)
 
 ### 💻 Studying
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-26569A?style=plastic&logo=Tableau&logoColor=white)
 ![GA4](https://img.shields.io/badge/GA4-DC7000?style=plastic&logo=GoogleAnalytics&logoColor=white)
 
 <!--
