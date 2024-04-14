@@ -1,6 +1,5 @@
 ### 📩 Contact
 [![Gmail_Badge](https://img.shields.io/badge/Gmail-CC2D29?style=flat&logo=gmail&logoColor=white)](mailto:heleownae@gmail.com)
-[![Tistory_Badge](https://img.shields.io/badge/Tech_Blog-EC5219?style=flat&logo=tistory&logoColor=white)](https://heleownae.tistory.com/)
 
 ### 📜 Education & Career
 - `23.12 - present` **내일배움캠프** 
