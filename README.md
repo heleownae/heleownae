@@ -2,7 +2,7 @@
 [![Gmail_Badge](https://img.shields.io/badge/Gmail-CC2D29?style=flat&logo=gmail&logoColor=white)](mailto:heleownae@gmail.com)
 
 ### 📜 Education & Career
-- `23.12 - present` **내일배움캠프** 
+- `23.12 - 24.04` **내일배움캠프** 
   - _Data Analyst_ course
 - `21.11 - 23.09` **Book Editor & Marketer** 
 - `16.13 - 22.02` **HUFS Global** 
